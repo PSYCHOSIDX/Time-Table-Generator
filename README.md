@@ -12,6 +12,8 @@ Made in windows Forms using C# .
 3)To Generate Time Tables
 4)To View Generated Tables
 
+Please use the Help Guide Provided to use the System .
+
 YouTube Video : https://youtu.be/NVRnjWnlR7g 
 
 Hope You Enjoyed Visiting .

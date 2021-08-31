@@ -13,7 +13,7 @@ Made in windows Forms using C# .
 
 (1)To Manage Courses
 
-(2)To Manage Teacher
+(2)To Manage Teachers
 
 (3)To Generate Time Tables
 

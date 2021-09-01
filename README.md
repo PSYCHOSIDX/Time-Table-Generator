@@ -8,16 +8,16 @@ Made in windows Forms using C# .
 
 
 
-[ This Has 4 Main Modules ]
+# Main Modules 
 
 
-(1)To Manage Courses
+• To Manage Courses
 
-(2)To Manage Teachers
+• To Manage Teachers
 
-(3)To Generate Time Tables
+• To Generate Time Tables
 
-(4)To View Generated Tables
+• To View Generated Tables
 
 
 
@@ -32,3 +32,5 @@ Hope You Enjoyed Visiting .
 Thank You !!
 
 #csharp #windowsforms #excel #time-table-generator
+# Technologies
+•c#
